@@ -1,0 +1,19 @@
+/* Custom styles for My Universal Disabler */
+
+.mud-card {
+    max-width: 600px;
+    margin-top: 20px;
+    padding: 20px;
+    border-left: 4px solid #d63638; /* WordPress Red */
+}
+
+.mud-danger-btn {
+    background-color: #d63638 !important;
+    border-color: #d63638 !important;
+    color: #fff !important;
+}
+
+.mud-danger-btn:hover {
+    background-color: #a82022 !important;
+    border-color: #a82022 !important;
+}
